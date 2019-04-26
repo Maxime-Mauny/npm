@@ -1,0 +1,9 @@
+/vendor
+/wp
+/content/languages/
+/content/plugins/
+/content/themes/
+/content/upgrade/
+/content/uploads/
+/content/debug.log
+wp-config.php

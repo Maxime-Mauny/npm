@@ -1,0 +1,21 @@
+{
+    "name": "mint/WP-Pattern-Composer-Maxime-Mauny",
+    "authors": [
+        {
+            "name": "Maxime Mauny",
+            "email": "m.mauny@hotmail.fr"
+        }
+    ],
+    "require": {
+        "johnpbloch/wordpress": "^5.1",
+        "wpackagist-theme/twentynineteen": "*",
+        "wpackagist-plugin/hello-dolly": "*"
+    },
+    "extra": {
+        "wordpress-install-dir": "wp",
+        "installer-paths": {
+            "content/plugins/{$name}/": ["type:wordpress-plugin"],
+            "content/themes/{$name}/": ["type:wordpress-theme"]
+        }
+    }
+}
