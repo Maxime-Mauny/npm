@@ -9,4 +9,4 @@ Réaliser une installation custom de WordPress avec Composer.
 
 ## La configuration
 
-L'installation doit être parfaitement fonctionnelle et proposer une configuration excluant l'éditeur embarqué, limitant les révisions de posts à 7 et permettant l'affichage des informations de debug
+L'installation doit être parfaitement fonctionnelle et proposer une configuration excluant l'éditeur embarqué, limitant les révisions de posts à 7 et permettant l'affichage des informations de deb
